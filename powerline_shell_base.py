@@ -101,9 +101,9 @@ class RepoStats:
         'detached': u'\u2693',
         'ahead': u'\u2B06',
         'behind': u'\u2B07',
-        'staged': u'\u2714',
-        'not_staged': u'\u270E',
-        'untracked': u'\u2753',
+        'staged': '+',
+        'not_staged': '~',
+        'untracked': '?',
         'conflicted': u'\u273C'
     }
 
